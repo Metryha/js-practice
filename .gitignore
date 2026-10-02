@@ -1,0 +1,22 @@
+# Node
+node_modules/
+package-lock.json
+dist/
+build/
+
+# Редакторы
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+npm-debug.log*
+
+# Секреты (важно!)
+.env
+.env.local
+*.key
